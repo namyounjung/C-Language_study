@@ -13,3 +13,7 @@ C언어에서 약했던 부분을 외면하지 말자 ^_^
 |          |[3. 동적 메모리 (3)](https://github.com/namyounjung/C-Language_study/blob/main/4.%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%26%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.md)|- 메모리 & 구조체|
 |2021.08.12|[4. 포인터 (4)](https://github.com/namyounjung/C-Language_study/blob/main/5.%20%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80%20%EB%B0%B0%EC%97%B4.md)|- 포인터와 배열|
 |          |4. 동적 메모리 (4)||
+|2021.08.13|[5. 포인터 (5)](https://github.com/namyounjung/C-Language_study/commit/ad99ca6a276f969cb72a12274ed456a70bb1a417)|- 포인터와 문자열|
+|          |5. 동적 메모리 (5)||
+
+
