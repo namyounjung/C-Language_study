@@ -16,5 +16,5 @@ C언어에서 약했던 부분을 외면하지 말자 ^_^
 |2021.08.13|[5. 포인터 (5)](https://github.com/namyounjung/C-Language_study/commit/ad99ca6a276f969cb72a12274ed456a70bb1a417)|- 포인터와 문자열|
 |          |5. 동적 메모리 (5)||
 |2021.08.14|6. 포인터 (6)|- 포인터와 구조체|
-|          |[7. 함수]||
+|          |[7. 함수](https://github.com/namyounjung/C-Language_study/blob/main/6.%20%ED%95%A8%EC%88%98.md)||
 
